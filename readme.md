@@ -1,7 +1,5 @@
-[TOC]
 
 # Z370N WiFi-i5 8600k-Radeon RX850-hackintosh EFI
-
 
 
 更新于2019.9.19     系统版本Mac OS 10.14.6
@@ -44,7 +42,7 @@
 | 内存         | 海盗船 8Gx2                                           |
 | SSD          | Samsung 860 EVO 512（Mac OS）+intel 760P 256（Win10） |
 | 电源         | EVEA 金牌全模组 600W                                  |
-| 机箱         | 立人-H80                                              |
+| 机箱|小号傻瓜超人K77   |                                  
 | 蓝牙wifi网卡 | BCM94360CD                                            |
 
 硬件选择上技嘉主板对Hackintosh的支持是比较好的最推荐，这也是我购买这块主板的原因。由于短期不需要上9代u，所以买的z370的板子，甚至现在刷新了bios其实也是支持9代u的。
