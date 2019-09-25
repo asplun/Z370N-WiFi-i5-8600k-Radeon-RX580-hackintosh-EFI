@@ -1,5 +1,5 @@
 
-# Z370N WiFi-i5 8600k-Radeon RX850-hackintosh EFI
+# Z370N WiFi-i5 8600k-Radeon RX580-hackintosh EFI
 
 
 
