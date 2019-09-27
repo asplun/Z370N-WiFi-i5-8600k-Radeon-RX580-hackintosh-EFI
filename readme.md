@@ -1,7 +1,9 @@
 
 # Z370N WiFi-i5 8600k-Radeon RX580-hackintosh EFI
 
+更新于2019.9.27     系统版本Mac OS 10.14.6
 
+如果CPU不同，可能会出现核显不同导致的黑屏问题，可以在clover中设置不同的核显ID尝试解决
 
 更新于2019.9.19     系统版本Mac OS 10.14.6
 
