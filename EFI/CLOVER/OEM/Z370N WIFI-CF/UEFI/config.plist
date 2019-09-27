@@ -380,6 +380,8 @@
 	</dict>
 	<key>RtVariables</key>
 	<dict>
+		<key>BooterConfig</key>
+		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 	</dict>
@@ -396,7 +398,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C027457004NJ0PGA8</string>
+		<string>C02731401CDJ0PGA8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -426,9 +428,9 @@
 		<key>ProductName</key>
 		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>C02VNRZJJ1GJ</string>
+		<string>C02V5WY7J1GJ</string>
 		<key>SmUUID</key>
-		<string>2141C203-F620-47AE-8B2F-DC48B43B2FF8</string>
+		<string>94FE5365-94D1-4BD0-89F9-BA7CDCAC1536</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -436,8 +438,6 @@
 	<dict>
 		<key>InjectKexts</key>
 		<string>Detect</string>
-		<key>InjectSystemID</key>
-		<false/>
 	</dict>
 </dict>
 </plist>
